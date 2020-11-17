@@ -16,10 +16,20 @@ img{
   width: 300px;
 }
 
+a{
+  color: red;
+  text-decoration: none;
+}
+
 h1,nav {
   text-align: center;
 }
 
-main{
+a:hover{
+  text-decoration: underline;
+}
 
+.main{
+  display: flex;
+  margin-bottom: 20px;
 }

@@ -24,21 +24,21 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [x] Create your navigation bar that will link all your pages together.
 
-- [ ] Give your HTML elements classes in order to add Flexbox to the CSS.
+- [x] Give your HTML elements classes in order to add Flexbox to the CSS.
 
-- [ ] Write your biography on your About Me page.
+- [x] Write your biography on your About Me page.
 
 ### CSS
 
-- [ ] Choose 2-4 colors for your theme and add them as font or background colors.
+- [x] Choose 2-4 colors for your theme and add them as font or background colors.
 
-- [ ] Add flexbox to your navigation bar.
+- [x] Add flexbox to your navigation bar.
 
-- [ ] Add at least 1 Google Font.
+- [x] Add at least 1 Google Font.
 
 ### Wrap
 
-- [ ] Submit your work to the session agenda.
+- [x] Submit your work to the session agenda.
 
 ## Day 2
 
@@ -48,11 +48,11 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [x] Add two more HTML files (Projects, Contact) to your Portfolio and link them all together.
 
-- [ ] Upload at least 2 images so they are hosted in your Portfolio.
+- [x] Upload at least 2 images so they are hosted in your Portfolio.
 
-- [ ] Update the title tags of all your new HTML files.
+- [x] Update the title tags of all your new HTML files.
 
-- [ ] Link your CSS file to all of your HTML files.
+- [x] Link your CSS file to all of your HTML files.
 
 ### HTML
 
